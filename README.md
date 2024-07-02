@@ -1,12 +1,9 @@
 # React Tic-Tac-Toe Game
 
-![Gameplay Screenshot](screenshots/gameplay.png)
 
 This project implements a simple tic-tac-toe game using React. Players can take turns placing "X" or "O" on a 3x3 grid. The game indicates when a player has won and allows for starting a new game.
 
-## Demo
 
-Insert GIF or screenshot here (optional).
 
 ## Features
 
